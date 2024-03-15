@@ -11,5 +11,5 @@ Test Project for MCA-2025 students
 9.
 10.
 11.
-12. smriti 
+12. samriti 
 13
